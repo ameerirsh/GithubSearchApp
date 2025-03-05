@@ -4,8 +4,8 @@ package com.ameer.githubsearch
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.ameer.githubsearch.data.Repository
-import com.ameer.githubsearchapp.GithubRepository
-import com.ameer.githubsearchapp.data.RetrofitClient
+import com.ameer.githubsearchapp.data.repository.GithubRepository
+import com.ameer.githubsearchapp.data.remote.RetrofitClient
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch

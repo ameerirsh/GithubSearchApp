@@ -1,4 +1,4 @@
-package com.ameer.githubsearchapp
+package com.ameer.githubsearchapp.data.repository
 
 import com.ameer.githubsearch.data.GithubApiService
 import com.ameer.githubsearch.data.Repository

@@ -1,4 +1,4 @@
-package com.ameer.githubsearchapp.data
+package com.ameer.githubsearchapp.data.remote
 
 import com.ameer.githubsearch.data.GithubApiService
 import retrofit2.Retrofit
